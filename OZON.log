@@ -1,0 +1,161 @@
+2025-03-04 16:24:57,268 - INFO - Script started
+2025-03-04 16:24:57,268 - INFO - Initializing webdriver
+2025-03-04 16:24:59,518 - INFO - Webdriver initialized
+2025-03-04 16:24:59,518 - INFO - Search query: браслет с натуральными камнями
+2025-03-04 16:24:59,518 - INFO - Searching on Ozon with query: браслет с натуральными камнями
+2025-03-04 16:25:15,502 - INFO - Search completed
+2025-03-04 16:25:15,502 - INFO - Starting parse with max_scroll_count=50 and pause=2 sec
+2025-03-04 16:25:15,532 - INFO - Parsing Ozon page
+2025-03-04 16:25:15,619 - INFO - Found 24 products on the current page
+2025-03-04 16:25:15,619 - INFO - New items found, scrolling down
+2025-03-04 16:25:19,943 - INFO - Parsing Ozon page
+2025-03-04 16:25:20,085 - INFO - Found 48 products on the current page
+2025-03-04 16:25:20,085 - INFO - New items found, scrolling down
+2025-03-04 16:25:24,570 - INFO - Parsing Ozon page
+2025-03-04 16:25:24,800 - INFO - Found 72 products on the current page
+2025-03-04 16:25:24,800 - INFO - New items found, scrolling down
+2025-03-04 16:25:27,572 - INFO - Parsing Ozon page
+2025-03-04 16:25:27,794 - INFO - Found 84 products on the current page
+2025-03-04 16:25:27,794 - INFO - New items found, scrolling down
+2025-03-04 16:25:32,449 - INFO - Parsing Ozon page
+2025-03-04 16:25:32,673 - INFO - Found 84 products on the current page
+2025-03-04 16:25:32,673 - INFO - New items found, scrolling down
+2025-03-04 16:25:37,122 - INFO - Parsing Ozon page
+2025-03-04 16:25:37,397 - INFO - Found 84 products on the current page
+2025-03-04 16:25:37,397 - INFO - New items found, scrolling down
+2025-03-04 16:25:41,763 - INFO - Parsing Ozon page
+2025-03-04 16:25:42,028 - INFO - Found 84 products on the current page
+2025-03-04 16:25:42,028 - INFO - New items found, scrolling down
+2025-03-04 16:25:46,060 - INFO - Parsing Ozon page
+2025-03-04 16:25:46,291 - INFO - Found 84 products on the current page
+2025-03-04 16:25:46,292 - INFO - New items found, scrolling down
+2025-03-04 16:25:49,204 - INFO - Parsing Ozon page
+2025-03-04 16:25:49,499 - INFO - Found 84 products on the current page
+2025-03-04 16:25:49,499 - INFO - New items found, scrolling down
+2025-03-04 16:25:53,561 - INFO - Parsing Ozon page
+2025-03-04 16:25:53,778 - INFO - Found 84 products on the current page
+2025-03-04 16:25:53,778 - INFO - New items found, scrolling down
+2025-03-04 16:25:58,683 - INFO - Parsing Ozon page
+2025-03-04 16:25:58,902 - INFO - Found 84 products on the current page
+2025-03-04 16:25:58,902 - INFO - New items found, scrolling down
+2025-03-04 16:26:00,995 - INFO - Parsing Ozon page
+2025-03-04 16:26:01,270 - INFO - Found 84 products on the current page
+2025-03-04 16:26:01,270 - INFO - New items found, scrolling down
+2025-03-04 16:26:03,501 - INFO - Parsing Ozon page
+2025-03-04 16:26:03,722 - INFO - Found 84 products on the current page
+2025-03-04 16:26:03,723 - INFO - New items found, scrolling down
+2025-03-04 16:26:08,318 - INFO - Parsing Ozon page
+2025-03-04 16:26:08,540 - INFO - Found 84 products on the current page
+2025-03-04 16:26:08,540 - INFO - New items found, scrolling down
+2025-03-04 16:26:12,906 - INFO - Parsing Ozon page
+2025-03-04 16:26:13,182 - INFO - Found 84 products on the current page
+2025-03-04 16:26:13,182 - INFO - New items found, scrolling down
+2025-03-04 16:26:15,784 - INFO - Parsing Ozon page
+2025-03-04 16:26:16,011 - INFO - Found 84 products on the current page
+2025-03-04 16:26:16,011 - INFO - New items found, scrolling down
+2025-03-04 16:26:18,975 - INFO - Parsing Ozon page
+2025-03-04 16:26:19,197 - INFO - Found 84 products on the current page
+2025-03-04 16:26:19,197 - INFO - New items found, scrolling down
+2025-03-04 16:26:24,052 - INFO - Parsing Ozon page
+2025-03-04 16:26:24,317 - INFO - Found 84 products on the current page
+2025-03-04 16:26:24,317 - INFO - New items found, scrolling down
+2025-03-04 16:26:29,293 - INFO - Parsing Ozon page
+2025-03-04 16:26:29,570 - INFO - Found 84 products on the current page
+2025-03-04 16:26:29,571 - INFO - New items found, scrolling down
+2025-03-04 16:26:34,642 - INFO - Parsing Ozon page
+2025-03-04 16:26:34,922 - INFO - Found 84 products on the current page
+2025-03-04 16:26:34,923 - INFO - New items found, scrolling down
+2025-03-04 16:26:38,408 - INFO - Parsing Ozon page
+2025-03-04 16:26:38,730 - INFO - Found 84 products on the current page
+2025-03-04 16:26:38,730 - INFO - New items found, scrolling down
+2025-03-04 16:26:41,550 - INFO - Parsing Ozon page
+2025-03-04 16:26:41,763 - INFO - Found 84 products on the current page
+2025-03-04 16:26:41,764 - INFO - New items found, scrolling down
+2025-03-04 16:26:43,954 - INFO - Parsing Ozon page
+2025-03-04 16:26:44,164 - INFO - Found 84 products on the current page
+2025-03-04 16:26:44,164 - INFO - New items found, scrolling down
+2025-03-04 16:26:47,080 - INFO - Parsing Ozon page
+2025-03-04 16:26:47,409 - INFO - Found 84 products on the current page
+2025-03-04 16:26:47,409 - INFO - New items found, scrolling down
+2025-03-04 16:26:51,474 - INFO - Parsing Ozon page
+2025-03-04 16:26:51,687 - INFO - Found 84 products on the current page
+2025-03-04 16:26:51,687 - INFO - New items found, scrolling down
+2025-03-04 16:26:53,961 - INFO - Parsing Ozon page
+2025-03-04 16:26:54,181 - INFO - Found 84 products on the current page
+2025-03-04 16:26:54,182 - INFO - New items found, scrolling down
+2025-03-04 16:26:57,726 - INFO - Parsing Ozon page
+2025-03-04 16:26:57,983 - INFO - Found 84 products on the current page
+2025-03-04 16:26:57,983 - INFO - New items found, scrolling down
+2025-03-04 16:27:00,649 - INFO - Parsing Ozon page
+2025-03-04 16:27:00,869 - INFO - Found 84 products on the current page
+2025-03-04 16:27:00,869 - INFO - New items found, scrolling down
+2025-03-04 16:27:05,820 - INFO - Parsing Ozon page
+2025-03-04 16:27:06,031 - INFO - Found 84 products on the current page
+2025-03-04 16:27:06,031 - INFO - New items found, scrolling down
+2025-03-04 16:27:09,888 - INFO - Parsing Ozon page
+2025-03-04 16:27:10,141 - INFO - Found 84 products on the current page
+2025-03-04 16:27:10,141 - INFO - New items found, scrolling down
+2025-03-04 16:27:13,961 - INFO - Parsing Ozon page
+2025-03-04 16:27:14,174 - INFO - Found 84 products on the current page
+2025-03-04 16:27:14,174 - INFO - New items found, scrolling down
+2025-03-04 16:27:18,546 - INFO - Parsing Ozon page
+2025-03-04 16:27:18,756 - INFO - Found 84 products on the current page
+2025-03-04 16:27:18,757 - INFO - New items found, scrolling down
+2025-03-04 16:27:22,981 - INFO - Parsing Ozon page
+2025-03-04 16:27:23,237 - INFO - Found 84 products on the current page
+2025-03-04 16:27:23,237 - INFO - New items found, scrolling down
+2025-03-04 16:27:27,210 - INFO - Parsing Ozon page
+2025-03-04 16:27:27,422 - INFO - Found 84 products on the current page
+2025-03-04 16:27:27,422 - INFO - New items found, scrolling down
+2025-03-04 16:27:30,308 - INFO - Parsing Ozon page
+2025-03-04 16:27:30,523 - INFO - Found 84 products on the current page
+2025-03-04 16:27:30,523 - INFO - New items found, scrolling down
+2025-03-04 16:27:34,027 - INFO - Parsing Ozon page
+2025-03-04 16:27:34,282 - INFO - Found 84 products on the current page
+2025-03-04 16:27:34,283 - INFO - New items found, scrolling down
+2025-03-04 16:27:37,737 - INFO - Parsing Ozon page
+2025-03-04 16:27:37,952 - INFO - Found 84 products on the current page
+2025-03-04 16:27:37,952 - INFO - New items found, scrolling down
+2025-03-04 16:27:40,663 - INFO - Parsing Ozon page
+2025-03-04 16:27:40,878 - INFO - Found 84 products on the current page
+2025-03-04 16:27:40,878 - INFO - New items found, scrolling down
+2025-03-04 16:27:44,748 - INFO - Parsing Ozon page
+2025-03-04 16:27:45,004 - INFO - Found 84 products on the current page
+2025-03-04 16:27:45,004 - INFO - New items found, scrolling down
+2025-03-04 16:27:47,252 - INFO - Parsing Ozon page
+2025-03-04 16:27:47,483 - INFO - Found 84 products on the current page
+2025-03-04 16:27:47,483 - INFO - New items found, scrolling down
+2025-03-04 16:27:50,955 - INFO - Parsing Ozon page
+2025-03-04 16:27:51,164 - INFO - Found 84 products on the current page
+2025-03-04 16:27:51,165 - INFO - New items found, scrolling down
+2025-03-04 16:27:54,082 - INFO - Parsing Ozon page
+2025-03-04 16:27:54,338 - INFO - Found 84 products on the current page
+2025-03-04 16:27:54,338 - INFO - New items found, scrolling down
+2025-03-04 16:27:57,372 - INFO - Parsing Ozon page
+2025-03-04 16:27:57,596 - INFO - Found 84 products on the current page
+2025-03-04 16:27:57,597 - INFO - New items found, scrolling down
+2025-03-04 16:28:01,148 - INFO - Parsing Ozon page
+2025-03-04 16:28:01,371 - INFO - Found 84 products on the current page
+2025-03-04 16:28:01,371 - INFO - New items found, scrolling down
+2025-03-04 16:28:05,046 - INFO - Parsing Ozon page
+2025-03-04 16:28:05,307 - INFO - Found 84 products on the current page
+2025-03-04 16:28:05,307 - INFO - New items found, scrolling down
+2025-03-04 16:28:10,197 - INFO - Parsing Ozon page
+2025-03-04 16:28:10,409 - INFO - Found 84 products on the current page
+2025-03-04 16:28:10,409 - INFO - New items found, scrolling down
+2025-03-04 16:28:14,523 - INFO - Parsing Ozon page
+2025-03-04 16:28:14,738 - INFO - Found 84 products on the current page
+2025-03-04 16:28:14,738 - INFO - New items found, scrolling down
+2025-03-04 16:28:17,270 - INFO - Parsing Ozon page
+2025-03-04 16:28:17,532 - INFO - Found 84 products on the current page
+2025-03-04 16:28:17,532 - INFO - New items found, scrolling down
+2025-03-04 16:28:21,298 - INFO - Parsing Ozon page
+2025-03-04 16:28:21,519 - INFO - Found 84 products on the current page
+2025-03-04 16:28:21,519 - INFO - New items found, scrolling down
+2025-03-04 16:28:24,453 - INFO - Parsing Ozon page
+2025-03-04 16:28:24,663 - INFO - Found 84 products on the current page
+2025-03-04 16:28:24,663 - INFO - New items found, scrolling down
+2025-03-04 16:28:28,265 - INFO - Parsing complete. Total products collected: 1200
+2025-03-04 16:28:28,265 - INFO - Saving data to CSV file: ozon_data_z5.csv
+2025-03-04 16:28:28,281 - INFO - Data saved successfully
+2025-03-04 16:28:30,578 - INFO - Driver quit and script finished

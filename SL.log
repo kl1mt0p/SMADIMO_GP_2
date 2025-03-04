@@ -1,0 +1,44 @@
+2025-03-04 16:34:38,583 - INFO - Script started
+2025-03-04 16:34:38,583 - INFO - Fetching Sima Land items with query: ������
+2025-03-04 16:34:38,583 - INFO - Fetching Sima Land items with query: ������
+2025-03-04 16:39:14,854 - INFO - Script started
+2025-03-04 16:39:14,854 - INFO - Fetching Sima Land items with query: ������
+2025-03-04 16:39:14,854 - INFO - Fetching Sima Land items with query: ������
+2025-03-04 16:39:24,340 - INFO - Script started
+2025-03-04 16:39:24,340 - INFO - Fetching Sima Land items with query: ������
+2025-03-04 16:39:24,340 - INFO - Fetching Sima Land items with query: ������
+2025-03-04 16:39:24,411 - INFO - Filtering items with query: ������
+2025-03-04 16:39:24,411 - INFO - Filtered 0 items matching query
+2025-03-04 16:39:24,412 - INFO - Page 1: found 100 items, 23 after filtering
+2025-03-04 16:39:26,304 - INFO - Filtering items with query: ������
+2025-03-04 16:39:26,304 - INFO - Filtered 23 items matching query
+2025-03-04 16:39:26,304 - INFO - Page 2: found 100 items, 14 after filtering
+2025-03-04 16:39:27,728 - INFO - Filtering items with query: ������
+2025-03-04 16:39:27,728 - INFO - Filtered 14 items matching query
+2025-03-04 16:39:27,728 - INFO - Page 3: found 100 items, 12 after filtering
+2025-03-04 16:39:29,418 - INFO - Filtering items with query: ������
+2025-03-04 16:39:29,419 - INFO - Filtered 12 items matching query
+2025-03-04 16:39:29,419 - INFO - Page 4: found 100 items, 8 after filtering
+2025-03-04 16:39:31,505 - INFO - Filtering items with query: ������
+2025-03-04 16:39:31,505 - INFO - Filtered 8 items matching query
+2025-03-04 16:39:31,505 - INFO - Page 5: found 100 items, 19 after filtering
+2025-03-04 16:39:33,249 - INFO - Filtering items with query: ������
+2025-03-04 16:39:33,249 - INFO - Filtered 19 items matching query
+2025-03-04 16:39:33,249 - INFO - Page 6: found 100 items, 11 after filtering
+2025-03-04 16:39:34,430 - INFO - Filtering items with query: ������
+2025-03-04 16:39:34,430 - INFO - Filtered 11 items matching query
+2025-03-04 16:39:34,430 - INFO - Page 7: found 100 items, 13 after filtering
+2025-03-04 16:39:35,730 - INFO - Filtering items with query: ������
+2025-03-04 16:39:35,730 - INFO - Filtered 13 items matching query
+2025-03-04 16:39:35,730 - INFO - Page 8: found 100 items, 19 after filtering
+2025-03-04 16:39:37,174 - INFO - Filtering items with query: ������
+2025-03-04 16:39:37,174 - INFO - Filtered 19 items matching query
+2025-03-04 16:39:37,174 - INFO - Page 9: found 100 items, 19 after filtering
+2025-03-04 16:39:38,821 - INFO - Filtering items with query: ������
+2025-03-04 16:39:38,821 - INFO - Filtered 19 items matching query
+2025-03-04 16:39:38,822 - INFO - Page 10: found 100 items, 23 after filtering
+2025-03-04 16:39:40,007 - INFO - Completed fetching Sima Land items; total items fetched: 161
+2025-03-04 16:39:40,007 - INFO - Building dataset from fetched items
+2025-03-04 16:39:40,007 - INFO - Building dataset from raw items; total raw items: 161
+2025-03-04 16:39:40,008 - INFO - Dataset built with 161 products
+2025-03-04 16:39:40,012 - INFO - Data saved to simaland_data_zz5.csv

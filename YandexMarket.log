@@ -1,0 +1,17 @@
+2025-03-04 16:30:30,617 - INFO - Script started
+2025-03-04 16:30:30,617 - INFO - Initializing driver with a random user-agent
+2025-03-04 16:30:31,852 - INFO - Driver initialized successfully
+2025-03-04 16:30:31,852 - INFO - Search query: ������� �������
+2025-03-04 16:30:31,852 - INFO - Searching on Yandex Market with query: ������� �������
+2025-03-04 16:30:57,975 - INFO - Search completed
+2025-03-04 16:30:57,975 - INFO - Starting parse with max_scroll_count=10 and pause=2
+2025-03-04 16:30:58,107 - INFO - Parsing Yandex Market page
+2025-03-04 16:30:58,323 - INFO - Parsed 44 products from Yandex Market page
+2025-03-04 16:30:58,324 - INFO - New items found, scrolling down
+2025-03-04 16:31:02,288 - INFO - Parsing Yandex Market page
+2025-03-04 16:31:02,710 - INFO - Parsed 32 products from Yandex Market page
+2025-03-04 16:31:02,710 - INFO - No new items found, breaking loop
+2025-03-04 16:31:02,711 - INFO - Parsing complete, total products collected: 76
+2025-03-04 16:31:02,712 - INFO - Saving data to CSV file: yandex_market_data_z5.csv
+2025-03-04 16:31:02,717 - INFO - Data saved successfully
+2025-03-04 16:31:04,956 - INFO - Driver quit and script finished

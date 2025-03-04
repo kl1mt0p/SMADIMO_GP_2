@@ -1,0 +1,18 @@
+
+2025-03-04 16:32:59,150 - INFO - Script started
+2025-03-04 16:32:59,150 - INFO - Initializing webdriver
+2025-03-04 16:33:00,373 - INFO - Webdriver initialized
+2025-03-04 16:33:04,478 - INFO - Search query: ������
+2025-03-04 16:33:04,478 - INFO - Searching on WB with query: ������
+2025-03-04 16:33:26,355 - INFO - Completed search on WB
+2025-03-04 16:33:26,355 - INFO - Starting parse with max_scroll_count=10 and pause=1
+2025-03-04 16:33:26,371 - INFO - Parsing Wildberries page
+2025-03-04 16:33:26,496 - INFO - Parsed 72 products from WB page
+2025-03-04 16:33:26,496 - INFO - New items found, scrolling down
+2025-03-04 16:33:29,350 - INFO - Parsing Wildberries page
+2025-03-04 16:33:29,571 - INFO - Parsed 72 products from WB page
+2025-03-04 16:33:29,571 - INFO - No new items found, stopping scroll
+2025-03-04 16:33:29,571 - INFO - Parsing complete, total products collected: 144
+2025-03-04 16:33:29,571 - INFO - Saving data to CSV file: wb_data_z5.csv
+2025-03-04 16:33:29,573 - INFO - Data saved successfully
+2025-03-04 16:33:31,716 - INFO - Driver quit and script finished
